@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Rock-paper-scissors
+
+  Created by alexandre ulas on 10/04/2019.
+  Copyright © 2019 Alexandre.ulas. All rights reserved.
+*/
+
+choose-player = "Choisir les joueurs";
+player-vs-computer = "Joueur vs Machine";
+computer-vs-computer = "Machine vs Machine";
+choose-gameplay = "Nombre de coups";
+start-game = "Jouer";
+reset-title = "Réinitialiser";
+reset-message = "Êtes-vous sûr de réinitialiser le jeu ?";
+reset-ok = "OK";
+reset-cancel = "ANNULER";
